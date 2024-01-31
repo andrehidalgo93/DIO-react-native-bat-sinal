@@ -14,7 +14,7 @@ export const styles = StyleSheet.create({
     width: '100%',
     flexDirection: 'column',
     alignSelf: 'center',
-    padding: 10,
+    padding: 15,
     marginTop: 30,
   },
 });
