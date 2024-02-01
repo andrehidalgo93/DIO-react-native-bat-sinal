@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- project name -->
-  <h1 align="center">Bat Sinal</h1>
+  <h1 align="center">DIO - Desafio Felipão - Bat Sinal</h1>
 
 </div>
 
